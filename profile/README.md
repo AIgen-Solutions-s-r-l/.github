@@ -105,6 +105,7 @@ Intelligent systems that learn and adapt to optimize business processes
 | 🎯 Project | 📝 Description | 🔧 Tech Stack | ⭐ Status |
 |-----------|---------------|---------------|-----------|
 | **[SpreadPilot](https://github.com/AIgen-Solutions-s-r-l/SpreadPilot)** | Modern microservices-based trading platform for scalable options trading automation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square) | ![Public](https://img.shields.io/badge/Public-00C851?style=flat-square) |
+| **[BofhContract](https://github.com/AIgen-Solutions-s-r-l/bofhcontract)** | Smart contract development and blockchain integration framework | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white) ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square) | ![Public](https://img.shields.io/badge/Public-00C851?style=flat-square) |
 | **[HedgeLock](https://github.com/AIgen-Solutions-s-r-l/HedgeLock)** | Decentralized loan monitoring with automated liquidation protection | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white) | ![Public](https://img.shields.io/badge/Public-00C851?style=flat-square) |
 | **[TEA](https://github.com/AIgen-Solutions-s-r-l/TEA)** | Technical Analysis & Event-driven Architecture for financial markets | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Real-time](https://img.shields.io/badge/Real--time-FF6B6B?style=flat-square) | ![Public](https://img.shields.io/badge/Public-00C851?style=flat-square) |
 | **[HRLForLiving](https://github.com/AIgen-Solutions-s-r-l/HRLForLiving)** | Reinforcement learning system for optimal household resource allocation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![RL](https://img.shields.io/badge/RL-FF6F00?style=flat-square) | ![Public](https://img.shields.io/badge/Public-00C851?style=flat-square) |
@@ -116,6 +117,9 @@ Intelligent systems that learn and adapt to optimize business processes
 
 ### 📊 SpreadPilot
 > A sophisticated trading platform built with microservices architecture for maximum scalability and reliability. Handles high-frequency options trading with advanced risk management.
+
+### ⛓️ BofhContract
+> Blockchain smart contract framework providing robust tools for contract development, testing, and deployment. Streamlines Web3 integration with enterprise-grade security and best practices.
 
 ### 🔒 HedgeLock
 > Blockchain-based DeFi monitoring system that provides real-time protection against liquidation risks. Intelligent algorithms monitor your positions 24/7.
