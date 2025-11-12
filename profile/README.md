@@ -323,12 +323,6 @@ Please read our [Code of Conduct](https://github.com/AIgen-Solutions-s-r-l/.gith
 
 ---
 
-### 📊 GitHub Stats
-
-![Organization Stats](https://github-readme-stats.vercel.app/api?username=AIgen-Solutions-s-r-l&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Built%20with%20💙%20in%20Italy&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%">
 
 **© 2025 Algen Solutions s.r.l. | Empowering the future through AI**
